@@ -13,5 +13,13 @@ public class randomClass
     public static void main(String[] args) 
     {
         System.out.println("RiiiiiiIIiIIIIIIIISSSSSEEEEE");
+        System.out.println("O               O");
+        System.out.println("        |        ");
+        System.out.println("        |        ");
+        System.out.println("        |        ");
+        System.out.println("");
+        
+        System.out.println("my name is Gajen");
+        
     }
 }
